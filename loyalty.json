@@ -1,0 +1,282 @@
+{
+  "loyalty_v1": {
+    "claim_loyalty_reward": {
+      "claim": "Claim",
+      "claim_successfully": "Claim successfully!"
+    },
+    "guess_and_win": {
+      "TC_modal": {
+        "term_1": "By visiting Krystal and participating in the Guess & Win game, You are deemed to have read, understood and agreed by the Terms stated here in.",
+        "term_2": "Krystal shall be entitled to take any form of action against User who violates the Krystal Terms of Use and/or abuses the Guess & Win game, including but is not limited to, any suspicious activities, or any attempts to circumvent these Terms.",
+        "term_3": "Any and all decisions made by Krystal in relation to every aspect of the Guess & Win game, shall be final and conclusive. Any subsequent correspondences, protest, appeals or enquiries will not be entertained.",
+        "term_4": "Krystal reserves the right to cancel, terminate or suspend the Guess & Win Game upon giving adequate notice.",
+        "term_5": "Krystal reserves the right to amend, waive, suspend, terminate or interpret any portion of these Terms in its sole discretion, and at any time without prior notice. In such an event, Krystal will make reasonable efforts to notify you.",
+        "term_6": "Payment of Prizes for any draw shall be made on such days and in such manner as shall be decided by the Company.",
+        "term_7": "Payment of Prizes will be made in BUSD, and will be made available to claim in Krystal Rewards.",
+        "term_8": "Any prize not claimed within thirty (30) days from the date of the Relevant Draw shall be forfeited.",
+        "term_9": "Questions, comments and requests regarding these Terms or complaints related to the Guess & Win game are welcomed and should be addressed to",
+        "title": "Terms & Conditions"
+      },
+      "draw_date": "Draw Date",
+      "free_ticket_info_modal": {
+        "claim_now_button": "Claim Now",
+        "close_button": "Close",
+        "for_round": "for Round",
+        "title": "My free tickets"
+      },
+      "get_ticket_modal": {
+        "back_button": "Back",
+        "buy_failed": "Buy ticket failed! Please try again later!",
+        "claim_failed": "Claim ticket failed! Please try again later!",
+        "claim_now": "Claim Now",
+        "claim_ticket": "Claim Ticket",
+        "close_button": "Close",
+        "confirm_button": "Confirm",
+        "confirm_ticket": "Confirm Your Ticket",
+        "eggs_balance": "Balance",
+        "free_tickets": "free tickets",
+        "get_another_ticket": "Get Another Ticket",
+        "get_now": "Get Now",
+        "get_ticket": "Get Ticket",
+        "good_luck": "Good luck!",
+        "info": {
+          "get_more_eggs": "You can get more eggs",
+          "get_more_eggs_link": "here",
+          "limit_claim": "You can only claim {{tickets}} tickets at a time.",
+          "limit_redeem": "You can only redeem {{tickets}} tickets at a time."
+        },
+        "input_start_placeholder": "Insert ticket amount",
+        "insufficient_egg": "Insufficient Egg",
+        "max_button": "MAX",
+        "purchase_complete": "Purchase Complete",
+        "randomise_button": "Randomise",
+        "reset_button": "Reset",
+        "select_number_for_tickets": "Select number for {{tickets}} tickets",
+        "ticket": "Ticket",
+        "ticket_amount": "Ticket amount",
+        "total": "Total",
+        "you_have": "You have"
+      },
+      "holistic": {
+        "claim_free_tickets": "Claim Free Tickets",
+        "get_more_tickets": "Get More Tickets",
+        "live_stream_text": "Check out the live drawing right here",
+        "prize_pool": "Prize Pool",
+        "tickets_claimed": "Tickets Claimed",
+        "your_tickets": "Your Tickets"
+      },
+      "result": {
+        "each": "each",
+        "reward_value": "Reward Value",
+        "ticket_rewards": "Ticket Rewards",
+        "view_reward": "View Reward",
+        "winning_number": "Winning Number",
+        "winning_tickets": "winning tickets",
+        "your_tickets": "Your tickets for this round"
+      },
+      "round": "Round",
+      "rule_modal": {
+        "how_to_participate": "How to participate",
+        "match": "Match",
+        "part_1": {
+          "description": "Guess & Win is a way for Krystal users to win cash prizes by exchanging eggs for tickets.",
+          "title": "What is Guess & Win?"
+        },
+        "part_2": {
+          "description_1": "The digits on your ticket must match the winning number in the correct order to win.",
+          "description_2": "You can win by matching either the first or last few digits with the winning number. If you do not get the first or last digit correct, you will not win any prizes.",
+          "description_3": {
+            "line_1": "Prize brackets don’t ‘stack’. If 2 sets of numbers match, the set with the",
+            "line_2": "most number of matched digits",
+            "line_3": "will be picked."
+          },
+          "digits_matched": "Digits Matched",
+          "example": {
+            "example_1": "The first 3 digits match, so this ticket only wins a “Match 3” prize.",
+            "example_2": "The last 2 digits match, so this ticket wins a “Match 2” prize.",
+            "example_3": "The first 3 digits and the last 2 digits match, so this ticket wins the highest matching numbers which is a “Match 3” prize.",
+            "example_4": "Neither the first or last digit matched, so this ticket will not win any prize.",
+            "title": "Here is an example"
+          },
+          "post_description_1": "Prizes are allocated accordingly to the number of digits matched",
+          "post_description_2": "Prizes will be equally split amongst all winners within each group.",
+          "prize_pool_allocation": "Prize Pool Allocation",
+          "title": "Winning Criteria"
+        },
+        "part_3": {
+          "description": "You can earn eggs by completing the following tasks",
+          "tasks": {
+            "task_1": "Complete Missions and Quests: Earn eggs directly",
+            "task_2": "Daily Check-In: Earn spins. Use spin to earn eggs"
+          },
+          "title": "How do I earn eggs?"
+        },
+        "part_4": {
+          "description": " If your tickets have matched, you can claim your prizes in My Rewards page. Please allow 3 working days after each draw for the prizes to be distributed.",
+          "title": "How do I claim my prize?"
+        },
+        "participation_rules": "Participation Rules",
+        "step_1": {
+          "description": "Spend 100 eggs = 1 ticket You can pick you own ticket number",
+          "get_ticket": "Get Ticket",
+          "title": "Step 1"
+        },
+        "step_2": {
+          "description": "Wait for the draw",
+          "note": "Check page for date of draw",
+          "title": "Step 2"
+        },
+        "step_3": {
+          "description": "Check for Prizes",
+          "note": "Once the round is over, you can check your results here. Winnings will be claimable under My Rewards in 2-3 days.",
+          "title": "Step 3"
+        }
+      },
+      "ticket": "Ticket",
+      "title": "Guess & Win"
+    },
+    "home-page": {
+      "daily-check-in": {
+        "default-title": "Daily Check-in",
+        "message": {
+          "checkin-failed-please-try-again-later": "Checkin failed! Please try again later!",
+          "checkin-successfully": "Checkin successfully!",
+          "please-connect-your-wallet-to-play-daily-check-in": "Please connect your wallet to play daily check-in",
+          "please-verify-your-address-to-play-daily-check-in": "Please verify your address to play daily check-in",
+          "today-reward-egg-greater-than-one": "Please check-in today and receive {{todayReward}} eggs",
+          "today-reward-egg-less-or-equal-than-one": "Please check-in today and receive {{todayReward}} egg",
+          "tomorrow-reward-eggs-greater-than-one": "Please come back tomorrow and check-in to receive {0} eggs",
+          "tomorrow-reward-less-than-or-equal-one": "Please come back tomorrow and check-in to receive {0} egg"
+        }
+      },
+      "hunt-rewards": {
+        "campaigns": {
+          "ends": "Ends",
+          "show-all": "SHOW ALL",
+          "starts": "Starts",
+          "title": "Campaigns",
+          "total-reward": "Total Reward"
+        },
+        "challenges": {
+          "missions": "MISSIONS",
+          "no-missions-found": "No missions found.",
+          "show-all": "SHOW ALL",
+          "type": {
+            "active": "Active",
+            "inactive": "Inactive",
+            "upcoming": "Upcoming"
+          }
+        },
+        "gamezone": {
+          "dino-collectibles": "Dino Collectibles",
+          "guess-and-win": "Guess & Win",
+          "title": "GAMEZONE"
+        },
+        "title": "Hunt Rewards"
+      },
+      "my-referral": "My Referral",
+      "my-rewards": "My Rewards",
+      "redeem-eggs": {
+        "no-voucher-found": "No voucher found.",
+        "title": "Redeem Eggs",
+        "voucher-number-greater-than-one": "{0} Vouchers",
+        "voucher-number-less-than-or-equal-one": "{{0}} Voucher"
+      },
+      "title": "Krystal Rewards"
+    },
+    "lucky_spin": {
+      "btn_spin_label": "Spin",
+      "confirm_redeem_eggs": {
+        "cancel_label": "Cancel",
+        "confirm_spend_at_least_two_eggs": "You are spending {{amount}} eggs for this spin.",
+        "confirm_spend_less_or_equal_one_egg": "You are spending {{amount}} egg for this spin.",
+        "get_more_egg": "Get more egg",
+        "insufficient_egg": "Insufficient Egg",
+        "minimum_egg_require_at_least_two_eggs_to_spin": "Need at least {{amount}} eggs to get spin",
+        "minimum_egg_require_less_to_equal_one_eggs_to_spin": "Need at least {{amount}} egg to get spin",
+        "ok_label": "OK",
+        "title": "Redeem Confirmation"
+      },
+      "lucky_spin_title": "Lucky Spin",
+      "modal_spin_result": {
+        "cancel_label": "Cancel",
+        "close": "Close",
+        "congratulations": "Congratulations!",
+        "good_luck_message": "Good luck next time!",
+        "message_by_type": {
+          "body_part": {
+            "at_least_two": "You won {{amount}} {{type}} dino parts.",
+            "less_or_equal_one": "You won {{amount}} {{type}} dino part."
+          },
+          "egg": {
+            "at_least_two": "You won {{amount}} eggs.",
+            "less_or_equal_one": "You won {{amount}} egg."
+          },
+          "gw_ticket": {
+            "at_least_two": "You won {{amount}} tickets.",
+            "less_or_equal_one": "You won {{amount}} ticket."
+          },
+          "spin": {
+            "at_least_two": "You won {{amount}} spin turns.",
+            "less_or_equal_one": "You won {{amount}} spin turn."
+          },
+          "token": "You won {{amount}} {{symbol}}."
+        },
+        "ok_label": "OK",
+        "oops": "Oops!",
+        "play_again": "Play Again",
+        "use_now": "Use Now",
+        "view_reward": "View Reward"
+      },
+      "spin_at_least_two_eggs": "{{amount}} eggs to Spin",
+      "spin_less_or_equal_one_egg": "{{amount}} egg to Spin",
+      "spin_loading_text": "Loading",
+      "spin_rate_by_eggs": "1 spin = {{amount}} eggs",
+      "term_and_policy": "Term & Policy",
+      "you_have_at_least_two_spin_turn": "You have {{amount}} spins left",
+      "you_have_less_or_equal_one_spin_turn": "You have {{amount}} spin left"
+    },
+    "reward": {
+      "building_tx": "Building transaction",
+      "claim_all": "Claim All",
+      "claimed": "Claimed",
+      "gas_fee": "Gas fee",
+      "history": "History",
+      "reward_CTA": "Trade to get Reward",
+      "reward_empty": "You don’t have any reward",
+      "reward_history": "Reward history",
+      "reward_summary": "Reward summary",
+      "rewards": "Rewards",
+      "summary": "Summary",
+      "token_rewards": "Token rewards",
+      "unclaimed": "Unclaimed",
+      "unclaimed_token_only": "Unclaimed token only",
+      "voucher_CTA": "Get voucher",
+      "voucher_empty": "You don’t have any voucher",
+      "vouchers": "Vouchers"
+    },
+    "validation_CTA": {
+      "connect_wallet": "Connect wallet",
+      "connect_wallet_for_accessible": "Please connect wallet to to access this page.",
+      "connect_wallet_hint": "Please connect your wallet to play",
+      "verify_wallet": "Verify address",
+      "verify_wallet_for_secure": "To secure your privacy, please verify this to prove you are the holder of the address.",
+      "verify_wallet_hint": "Please verify your address to play"
+    },
+    "missions": {
+      "all-missions": "All Missions",
+      "active": "Active",
+      "inactive": "Inactive",
+      "krystal-missions": "Krystal Missions",
+      "no-quests-available": "No quests available",
+      "upcoming": "Upcoming",
+      "please-verify-your-address-to-claim-reward": "Please verify your address to claim reward",
+      "completed": "Completed",
+      "go": "Go",
+      "volume-is-processing-one": "{0}$ is processing",
+      "volume-is-processing-other": "{0}$ are processing",
+      "transaction-is-processing-one": "{0} transaction is processing",
+      "transaction-is-processing-other": "{0} transactions are processing"
+    }
+  }
+}
