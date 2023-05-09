@@ -1,7 +1,7 @@
 {
   "loyalty_v1": {
     "claim_loyalty_reward": {
-      "claim": "Claim",
+      "claim": "Claim test",
       "claim_successfully": "Claim successfully!"
     },
     "guess_and_win": {
