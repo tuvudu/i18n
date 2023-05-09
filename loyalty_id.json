@@ -1,0 +1,84 @@
+{
+  "loyalty_v1": {
+    "claim_loyalty_reward": {
+      "claim": "Mengeklaim",
+      "claim_successfully": "Klaim berhasil!"
+    },
+    "guess_and_win": {
+      "TC_modal": {
+      },
+      "free_ticket_info_modal": {
+      },
+      "get_ticket_modal": {
+        "info": {
+        }
+      },
+      "holistic": {
+      },
+      "result": {
+      },
+      "rule_modal": {
+        "part_1": {
+        },
+        "part_2": {
+          "description_3": {
+          },
+          "example": {
+          }
+        },
+        "part_3": {
+          "tasks": {
+          }
+        },
+        "part_4": {
+        },
+        "step_1": {
+        },
+        "step_2": {
+        },
+        "step_3": {
+        }
+      }
+    },
+    "home-page": {
+      "daily-check-in": {
+        "message": {
+        }
+      },
+      "hunt-rewards": {
+        "campaigns": {
+        },
+        "challenges": {
+          "type": {
+          }
+        },
+        "gamezone": {
+        }
+      },
+      "redeem-eggs": {
+      }
+    },
+    "lucky_spin": {
+      "confirm_redeem_eggs": {
+      },
+      "modal_spin_result": {
+        "message_by_type": {
+          "body_part": {
+          },
+          "egg": {
+          },
+          "gw_ticket": {
+          },
+          "spin": {
+          }
+        }
+      }
+    },
+    "reward": {
+    },
+    "validation_CTA": {
+    },
+    "missions": {
+    }
+  }
+}
