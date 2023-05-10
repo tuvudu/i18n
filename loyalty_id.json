@@ -1,11 +1,13 @@
 {
   "loyalty_v1": {
     "claim_loyalty_reward": {
-      "claim": "Mengeklaim",
+      "claim": "Tes klaim",
       "claim_successfully": "Klaim berhasil!"
     },
     "guess_and_win": {
       "TC_modal": {
+        "term_1": "Dengan mengunjungi Krystal dan berpartisipasi dalam permainan Tebak & Menang, Anda dianggap telah membaca, mengerti dan menyetujui Ketentuan yang tertera di sini.",
+        "term_2": "Krystal berhak mengambil segala bentuk tindakan terhadap Pengguna yang melanggar Ketentuan Penggunaan Krystal dan/atau menyalahgunakan permainan Tebak & Menang, termasuk namun tidak terbatas pada, aktivitas mencurigakan, atau upaya apa pun untuk mengakali Ketentuan ini."
       },
       "free_ticket_info_modal": {
       },
